@@ -1,13 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Think Better
-datePublished: '2016-03-15T00:20:57.985Z'
-dateModified: '2016-03-15T00:19:47.346Z'
+datePublished: '2016-03-15T00:30:48.079Z'
+dateModified: '2016-03-15T00:30:44.739Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-15-think-better.md
@@ -18,8 +18,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: think-better/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd1b4fc2-98bb-4e3f-8734-79c536c99bfa.jpg)
+
 Think Better
