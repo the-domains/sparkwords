@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sparkwords - Think Better]]></title>
+        <description><![CDATA[Sparkwords - Think Better]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 01:15:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing the site now]]></title>
+            <description><![CDATA[<article><h1>Testing the site now</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d0b02de7-5597-47b1-8ceb-038330636752.jpg"></article>]]></description>
+            <link>undefinedtesting-the-site-now/index.html</link>
+            <guid isPermaLink="false">74e9d41d-c60f-44a0-a0d8-33704c1d1a1d</guid>
+            <pubDate>Tue, 15 Mar 2016 01:14:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
