@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-15T14:14:21.835Z'
-dateModified: '2016-03-15T14:14:16.991Z'
+datePublished: '2016-03-15T16:51:33.545Z'
+dateModified: '2016-03-15T16:51:05.391Z'
 title: Sparkwords
 author: []
 sourcePath: _posts/2016-03-15-sparkwords.md
