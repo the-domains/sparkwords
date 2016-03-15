@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Sparkwords - Think Better]]></title>
-        <description><![CDATA[Sparkwords - Think Better]]></description>
+        <title><![CDATA[Think Better]]></title>
+        <description><![CDATA[Think Better]]></description>
         <link>https://thegrid.ai/sparkwords/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 05:17:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 13:57:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sparkwords/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sparkwords]]></title>
+            <description><![CDATA[<article><h1>Sparkwords</h1><h2>Think Better</h2><p>undefined</p></article>]]></description>
+            <link>https://thegrid.ai/sparkwords/sparkwords/index.html</link>
+            <guid isPermaLink="false">3685c681-b70f-463c-ba93-f874e154675f</guid>
+            <pubDate>Tue, 15 Mar 2016 13:57:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
