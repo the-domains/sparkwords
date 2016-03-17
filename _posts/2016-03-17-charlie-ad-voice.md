@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-17T17:48:55.781Z'
-dateModified: '2016-03-17T17:48:17.205Z'
+datePublished: '2016-03-17T17:50:42.284Z'
+dateModified: '2016-03-17T17:50:23.848Z'
 author: []
 related: []
 app_links: []
 title: Charlie Ad Voice
+sourcePath: _posts/2016-03-17-charlie-ad-voice.md
+published: true
 authors: []
 publisher:
   name: 'Wistia, Inc.'
   domain: sparkwords.wistia.com
   url: 'http://wistia.com'
   favicon: 'https://sparkwords.wistia.com/favicon.ico'
-sourcePath: _posts/2016-03-17-charlie-ad-voice.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
