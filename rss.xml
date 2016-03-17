@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sparkwords]]></title>
         <description><![CDATA[Sparkwords]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sparkwords/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 01:05:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 01:12:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sparkwords/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[https://www.udemy.com/sparkwords/]]></title>
-            <description><![CDATA[<article><h1>https://www.udemy.com/sparkwords/</h1><p>undefined</p></article>]]></description>
-            <link>undefinedafbd43e6-7c4d-4138-867f-0a15498a83dd/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8238a6ee-4e7c-43f8-b2c4-568ee8763dad.jpg">]]></description>
+            <link>https://thegrid.ai/sparkwords/afbd43e6-7c4d-4138-867f-0a15498a83dd/index.html</link>
             <guid isPermaLink="false">afbd43e6-7c4d-4138-867f-0a15498a83dd</guid>
-            <pubDate>Thu, 17 Mar 2016 01:05:16 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 01:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
