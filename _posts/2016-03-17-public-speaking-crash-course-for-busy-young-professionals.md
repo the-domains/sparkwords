@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.udemy.com'
-  name: Udemy
-  favicon: 'https://www.udemy.com/staticx/udemy/images/favicon.ico'
-  domain: www.udemy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.udemy.com/creative-speaking-skills-challenge-typical-speeches-part-2/'
+inLanguage: en
+starred: false
 keywords:
   - creative
   - practicing
@@ -18,19 +17,22 @@ keywords:
   - real-estate
   - seat-belts
 description: 'Instant Practical Steps to Jump Into Public Speaking, Communicating & Presenting Anything'
-inLanguage: en
+datePublished: '2016-03-17T18:20:11.678Z'
+dateModified: '2016-03-17T18:15:21.236Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.udemy.com/creative-speaking-skills-challenge-typical-speeches-part-2/'
 title: Public Speaking Crash Course for Busy Young Professionals
-datePublished: '2016-03-17T18:12:17.680Z'
-dateModified: '2016-03-17T18:12:05.857Z'
 sourcePath: _posts/2016-03-17-public-speaking-crash-course-for-busy-young-professionals.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Udemy
+  domain: www.udemy.com
+  url: 'https://www.udemy.com'
+  favicon: 'https://www.udemy.com/staticx/udemy/images/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Public Speaking Crash Course for Busy Young Professionals</h1><p>Instant Practical Steps to Jump Into Public Speaking, Communicating &amp; Presenting Anything</p><img src="https://udemy-images.udemy.com/course/480x270/455146_f3f0_3.jpg" /></article>
+<article style=""><h1>Public Speaking Crash Course for Busy Young Professionals</h1><p>Instant Practical Steps to Jump Into Public Speaking, Communicating &amp; Presenting Anything</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd1d600b795ced86de88119178700c505c31f688.jpg" /></article>
