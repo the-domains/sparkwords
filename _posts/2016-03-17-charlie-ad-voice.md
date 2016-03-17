@@ -4,15 +4,15 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://sparkwords.wistia.com/medias/buey22mq6n'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-17T17:51:34.141Z'
-dateModified: '2016-03-17T17:51:29.436Z'
+datePublished: '2016-03-17T18:02:50.878Z'
+dateModified: '2016-03-17T18:02:38.463Z'
 author: []
 related: []
 app_links: []
-title: Charlie Ad Voice
+title: Meet Charlie
 sourcePath: _posts/2016-03-17-charlie-ad-voice.md
 published: true
 authors: []
