@@ -16,8 +16,8 @@ keywords:
   - drastic
   - speaking
 description: "I'm asked: \"What one tip will make me a master public speaker overnight?\" I don't have that magic bullet, but I do recommend 3 powerful gems that in a short time will offer considerable improvement. If you follow these gems closely you'll shock yourself & those that listen to you."
-datePublished: '2016-03-18T22:16:19.580Z'
-dateModified: '2016-03-18T22:16:18.095Z'
+datePublished: '2016-03-18T22:16:34.345Z'
+dateModified: '2016-03-18T22:16:28.791Z'
 author:
   - name: Desmond Byram
     url: 'https://www.linkedin.com/in/desmondbyram?trk=pulse-det-athr_prof-art_hdr'
