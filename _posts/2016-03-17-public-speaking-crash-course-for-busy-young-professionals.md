@@ -17,8 +17,8 @@ keywords:
   - real-estate
   - seat-belts
 description: 'Instant Practical Steps to Jump Into Public Speaking, Communicating & Presenting Anything'
-datePublished: '2016-03-19T01:33:24.240Z'
-dateModified: '2016-03-19T01:33:23.949Z'
+datePublished: '2016-03-19T01:35:31.183Z'
+dateModified: '2016-03-19T01:34:55.540Z'
 author: []
 related: []
 app_links: []
