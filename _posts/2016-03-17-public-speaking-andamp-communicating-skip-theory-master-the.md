@@ -17,8 +17,8 @@ keywords:
   - no-brainer
   - introverts
 description: 'Public speaking. Presenting. Communicating. You do it, but are you succeeding? The SparkWords method proven by Thousands'
-datePublished: '2016-03-19T01:30:40.928Z'
-dateModified: '2016-03-19T01:30:40.629Z'
+datePublished: '2016-03-19T01:32:27.943Z'
+dateModified: '2016-03-19T01:32:20.376Z'
 author: []
 related: []
 app_links: []
