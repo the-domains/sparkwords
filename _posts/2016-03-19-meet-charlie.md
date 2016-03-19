@@ -2,22 +2,25 @@
 author: []
 related: []
 publisher:
-  url: 'http://wistia.com'
   name: 'Wistia, Inc.'
-  favicon: 'https://sparkwords.wistia.com/favicon.ico'
   domain: sparkwords.wistia.com
+  url: 'http://wistia.com'
+  favicon: 'https://sparkwords.wistia.com/favicon.ico'
 keywords: []
 description: ''
 app_links: []
 isBasedOnUrl: 'https://sparkwords.wistia.com/medias/buey22mq6n'
 title: Meet Charlie
-datePublished: '2016-03-19T00:15:44.550Z'
-dateModified: '2016-03-19T00:15:27.094Z'
+datePublished: '2016-03-19T00:16:09.576Z'
+dateModified: '2016-03-19T00:15:48.125Z'
 sourcePath: _posts/2016-03-19-meet-charlie.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 
