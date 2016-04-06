@@ -4,7 +4,7 @@
         <description><![CDATA[Sparkwords]]></description>
         <link>http://sparkwords.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 17:02:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 17:05:34 GMT</lastBuildDate>
         <atom:link href="http://sparkwords.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Meet Charlie]]></title>
@@ -14,17 +14,11 @@
             <pubDate>Sat, 19 Mar 2016 01:35:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Testing Post 1]]></title>
+            <description><![CDATA[<h1>Testing Post 1</h1>]]></description>
             <link>http://sparkwords.com/eacd5446-a0ff-4721-bd63-421bb89af39e/index.html</link>
             <guid isPermaLink="false">eacd5446-a0ff-4721-bd63-421bb89af39e</guid>
             <pubDate>Wed, 06 Apr 2016 17:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Blog</p>]]></description>
-            <link>http://sparkwords.com/a92a8168-2d9e-4b58-be59-308c5c639daa/index.html</link>
-            <guid isPermaLink="false">a92a8168-2d9e-4b58-be59-308c5c639daa</guid>
-            <pubDate>Wed, 06 Apr 2016 17:01:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 Gems to Public Speaking Know-How]]></title>
