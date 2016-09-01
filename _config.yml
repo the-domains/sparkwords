@@ -19,11 +19,14 @@ analytics:
   google: UA-35858665-1
   facebook: null
   twitter: null
-name: Sparkwords
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb3c51d3-96c0-4959-b399-7bb57eeaaa03.png
+name: sparkwords
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2ff49c3-f035-472b-9805-07ee1ab06d29.png
 title: ''
 purpose: []
