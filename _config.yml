@@ -1,20 +1,4 @@
-name: sparkwords
-favicon: null
-layout_spectrum: 0.20870177424512804
 typography_spectrum: 0.28562898468226194
-title: Sparkwords
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-35858665-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20870177424512804
+analytics:
+  google: UA-35858665-1
+  facebook: null
+  twitter: null
+name: sparkwords
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
 purpose: []
